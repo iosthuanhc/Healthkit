@@ -1,6 +1,6 @@
 //
 //  HealthKitDataControl.m
-//  eneSmile
+//  
 //
 //  Created by Ha Cong Thuan on 10/17/14.
 //  Copyright © 2013-2015 GMO RunSystem. All rights reserved.
